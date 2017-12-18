@@ -1,0 +1,5 @@
+com\practice\scms\configuration\SpringWebConfig.class
+com\practice\scms\controller\HelloController.class
+com\practice\scms\controller\UserController.class
+com\practice\scms\configuration\AnnotationConfigDispatcherServletInitialiser.class
+com\practice\scms\configuration\SpringRootConfig.class
